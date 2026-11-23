@@ -13,5 +13,5 @@ This repository contains all assignment notebooks, data analysis, and code devel
 * [Week 6 Fundamental Math](./week_6_6X_fundamental_math.ipynb)
 * [Week 6 Diabetes dataset](./week_6_6_01.ipynb)
 * [Week 7 Seminar Datasets](./Week_7_Machine_Learning_Modelling_Loan_Status_Prediction.ipynb)
-* 
+* [Logistic Regression](./week_6_6_01.ipynb)
  
